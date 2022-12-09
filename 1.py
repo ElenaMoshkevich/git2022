@@ -1,6 +1,10 @@
 def my_superfunction():
     print('What an awesome print!')
     print('What an awesome print!')
+    print('My first git program')
+    print('My first git program')
+    print('My first git program')
+    print('My first git program')
 
 def main():
     print('My first git program')
